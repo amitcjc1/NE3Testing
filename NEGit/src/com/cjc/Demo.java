@@ -11,5 +11,8 @@ System.out.println("This is Git Project");
   {
     System.out.println("Hello this is M1");
   }
-  
+  public void m2()
+  {
+    System.out.println("Hello this is M2");
+  }
 }
